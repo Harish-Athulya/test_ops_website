@@ -17,4 +17,4 @@ jobs:
         server: www.athulyaliving.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /athulyaliving.net/
+        server-dir: /public_html/athulyaliving.net/
